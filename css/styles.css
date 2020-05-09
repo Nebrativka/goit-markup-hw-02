@@ -1,0 +1,59 @@
+/* Вторичный цвет фона #F5F4FA */
+
+
+/* футер цвет фона иконок соцсетей:rgba(255, 255, 255, 0.1); */
+
+
+}
+.page {
+    background-color: #ffffff;
+    color: var(--primery-text-color);
+}
+
+/* MAIN */
+.section p {
+    color: var(--secondary-text-color);
+}
+
+/* Заглавие которое я не смог придумать */
+.about-us .link {
+    background-color: #f5f4fa;
+}
+
+/* Чем мы занимаемся */
+.work-list p {
+    background-color: rgba(47, 48, 58, 0.8);
+    color: #FFFFFF;
+}
+
+/* OUR TEAM */
+.team-section {
+    background-color: #f5f4fa;
+}
+.team-section p {
+    color: var(--secondary-text-color);
+}
+.team-list li {
+    background-color: #ffffff;
+}
+.team-list img:hover,
+.team-list a:focus {
+    background-color: var(--text-color-accent);
+}
+
+/* Постоянные клиенты */
+.regular-customers img:hover {
+    background-color: var(--text-color-accent);
+}
+
+/* button */
+.button {
+    background-color: #F5F4FA;
+}
+.button:hover {
+    background-color: var(--text-color-accent);
+}
+.hero-button {
+    background-color: var(--text-color-accent);
+    color: #ffffff;
+}
